@@ -18,6 +18,7 @@ if (mediaQuery.matches) {
       new fullpage('#fullpage', {
         //options here
         autoScrolling:true,
+        scrollHorizontally: false,
         onLeave: function(origin, destination, direction, trigger){
             var loading2 = new TimelineMax();
             loading2.fromTo('h2',3.5,{
