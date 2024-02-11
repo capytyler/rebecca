@@ -298,6 +298,12 @@
         background-position: 45% 45%;
     }
     
+    .name-animation {
+        margin: 0;
+        padding: 0;
+       color: rgb(255, 255, 255);
+        
+    }
     
     .upper{
         position: absolute;
@@ -306,9 +312,9 @@
        
     }
     .upper h2{
-        font-size: 40px;
+        font-size: 70px;
         margin-bottom: 0;
-        color: aliceblue;
+        color: rgb(255, 255, 255);
     }
 
     .upper p {
