@@ -8,7 +8,21 @@
     
 }
 
+#name-container{
+    position: relative;
+}
 
+.name-animation {
+    margin: 0;
+    padding: 0;
+    color: rgb(3, 0, 64);
+    
+}
+
+.surname{
+   
+   color: rgb(186 230 253);
+}
 
 .section1{
     width: 100%;
@@ -62,6 +76,7 @@
     position: absolute;
     padding-top: 180px ;
     right: 120px;
+    
     font-family: 'Nanum Myeongjo', serif;
     
 }
